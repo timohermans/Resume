@@ -1,0 +1,13 @@
+{
+    "home": {
+        "welcome": "Welcome to my resume!",
+        "explanation": "Choose a language to view my resume",
+        "dutchTitle": "Dutch",
+        "dutchDescription": "Resume in Dutch",
+        "englishTitle": "English",
+        "englishDescription": "Resume in English"
+    },
+    "resume": {
+        "github": "https://github.com/timohermans"
+    }
+}

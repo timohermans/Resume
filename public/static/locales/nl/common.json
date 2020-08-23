@@ -1,0 +1,10 @@
+{
+    "home": {
+        "welcome": "Welkom bij mijn CV!",
+        "explanation": "Kies een taal om mijn CV te bekijken. Deze CV's zijn printer vriendelijk!",
+        "dutchTitle": "Nederlands",
+        "dutchDescription": "CV in het Nederlands",
+        "englishTitle": "Engels",
+        "englishDescription": "CV in het Engels"
+    }
+}
