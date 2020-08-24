@@ -1,10 +1,12 @@
-[
-    {
-        "language": "Nederlands",
-        "proficiency": "Vloeiend"
-    },
-    {
-        "language": "Engels",
-        "proficiency": "Volledig professioneel bekwaam"
-    }
-]
+{
+    "languages": [
+        {
+            "language": "Nederlands",
+            "proficiency": "Vloeiend"
+        },
+        {
+            "language": "Engels",
+            "proficiency": "Volledig professioneel bekwaam"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+@use '../../styles/typography';
+@use '../../styles/spacing';
+
+.languages {
+    display: flex;
+    gap: spacing.$l;
+    padding: 0 spacing.$l;
+}
+
+.proficiency {
+    @include typography.secondaryTitle();
+}

@@ -42,6 +42,12 @@
         },
         "hobbyProjects": {
             "title": "Personal Projects"
+        },
+        "languages": {
+            "title": "Talen"
+        },
+        "education": {
+            "title": "Opleiding"
         }
     }
 }

@@ -19,7 +19,7 @@ const useTranslationFileImport = <T,>({ fileName, language }: Props): T => {
 
     useEffect(() => {
         fetchJobs();
-    });
+    }, [fileName, language]);
 
     return translationMap;
 };
