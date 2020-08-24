@@ -25,12 +25,12 @@ const Home: NextPage = () => {
                 </p>
 
                 <div className={styles.grid}>
-                    <a href="/nl" className={styles.card}>
+                    <a href="/nl/resume" className={styles.card}>
                         <h3>Nederlands</h3>
                         <p>CV in het Nederlands</p>
                     </a>
 
-                    <a href="/en" className={styles.card}>
+                    <a href="/en/resume" className={styles.card}>
                         <h3>English</h3>
                         <p>My resume in English</p>
                     </a>

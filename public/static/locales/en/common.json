@@ -8,6 +8,13 @@
         "englishDescription": "Resume in English"
     },
     "resume": {
-        "github": "https://github.com/timohermans"
+        "title": "Resume",
+        "name": "Timo Hermans",
+        "jobTitle": "Software Engineer",
+        "email": "tmhermans@gmail.com",
+        "phoneNumber": "+31611621075",
+        "location": "Sittard, Nederland",
+        "linkedin": "linkedin.com/in/timohermans",
+        "github": "github.com/timohermans"
     }
 }

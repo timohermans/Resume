@@ -1,0 +1,12 @@
+.infoList {
+    padding: 0;
+    list-style-type: none;
+}
+
+.infoListItem {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}

@@ -1,0 +1,47 @@
+.page {
+    /* width: 210mm; */
+    width: 1184px;
+    min-height: 295mm;
+    margin: 2rem auto;
+    border: -1px #d3d3d3 solid;
+    border-radius: 3px;
+    background: white;
+    box-shadow: 1 0 5px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+@page {
+    margin: 0 6mm;
+    padding: 0;
+}
+
+.header {
+    padding-top: 2rem;
+    display: flex;
+}
+
+.headerImage {
+    border-radius: 50%;
+    border: 2px solid #ddd;
+    max-width: 150px;
+    height: 150px;
+}
+
+.headerNameContainer {
+    margin-left: 2rem;
+    flex: 1;
+}
+
+.headerName {
+    font-size: 46px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.headerJob {
+    margin-top: 0;
+    font-size: 24px;
+    color: #07ad9d  ;
+}
+
