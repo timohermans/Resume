@@ -1,0 +1,55 @@
+@use '../../styles/spacing';
+@use '../../styles/colors';
+@use '../../styles/typography';
+
+.title {
+    @include typography.secondaryTitle();
+}
+
+.task {
+    position: relative;
+    padding: typography.$sm;
+    margin: spacing.$sm;
+    border-left: 2px solid colors.$green;
+    border-right: 2px solid colors.$green;
+
+    @mixin border {
+        position: absolute;
+        width: 12px;
+        height: 2px;
+    }
+
+    .borderTopLeft {
+        @include border;
+        border-top: 2px solid colors.$green;
+        top: 0;
+        left: 0;
+    }
+
+    .borderTopRight {
+        @include border;
+        border-top: 2px solid colors.$green;
+        top: 0;
+        right: 0;
+    }
+
+    .borderBottomLeft {
+        @include border;
+        border-bottom: 2px solid colors.$green;
+        bottom: 0;
+        left: 0;
+    }
+
+    .borderBottomRight {
+        @include border;
+        border-bottom: 2px solid colors.$green;
+        bottom: 0;
+        right: 0;
+    }
+
+}
+
+.title {
+    position: absolute;
+    top: calc(#{typography.$sm} / 2 * -1);
+}

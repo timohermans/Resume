@@ -1,0 +1,20 @@
+@use '../../styles/colors';
+@use '../../styles/spacing';
+
+$bulletWidth: 12px;
+
+.listItem {
+    position: relative;
+}
+
+.listItemBullet {
+    position: absolute;
+    top: 50%;
+    height: 2px;
+    width: 12px;
+    background-color: colors.$green;
+}
+
+.listItemContent {
+    padding-left: $bulletWidth * 2;
+}

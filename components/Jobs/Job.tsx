@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './Jobs.module.scss';
 import { JobMap } from './jobTypes';
-import JobTasks from '../JobTasks/JobTasks';
+import Tasks from '../Tasks/Tasks';
 
 type Props = {
     jobName: string;
@@ -24,7 +24,9 @@ const Job: React.FC<Props> = ({ jobName, jobMap }) => {
                 <p className={styles.companyDescription}>
                     {job.companyDescription}
                 </p>
-                <JobTasks taskMap={job.tasks} />
+                <Tasks
+                    taskMap={job.tasks}
+                />
             </section>
         </li>
     );
