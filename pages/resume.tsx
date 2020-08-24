@@ -9,6 +9,8 @@ import Skills from '../components/Skills/Skills';
 import Jobs from '../components/Jobs/Jobs';
 import HobbyProjects from '../components/HobbyProjects/HobbyProjects';
 import Languages from '../components/Languages/Languages';
+import Education from '../components/Education/Education';
+import Interests from '../components/Interests/Interests';
 
 const resume = {
     name: 'Timo Hermans',
@@ -35,6 +37,8 @@ const Resume: NextPage = () => {
             <Jobs />
             <HobbyProjects />
             <Languages />
+            <Education />
+            <Interests />
         </article>
     );
 };

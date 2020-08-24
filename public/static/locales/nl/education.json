@@ -1,0 +1,20 @@
+{
+    "microsoft": {
+        "title": "Microsoft MCSD: App Builder",
+        "company": "Microsoft Exams",
+        "location": "Online",
+        "date": "07/2017"
+    },
+    "zuyd": {
+        "title": "Informatica",
+        "company": "Zuyd Hogeschool",
+        "location": "Heerlen",
+        "date": "02/2010 - 02/2014"
+    },
+    "vwo": {
+        "title": "VWO",
+        "company": "Graaf Huyn College",
+        "location": "Geleen",
+        "date": "2003 - 2009"
+    }
+}

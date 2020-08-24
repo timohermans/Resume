@@ -5,7 +5,8 @@
         "descriptions": [
             "Ik heb in het verleden een CV service gebruikt om mijn CV te verbeteren. Deze heb ik qua UI nagebouwd",
             "Dit project maakt gebruikt van Next.js (SSR met React)",
-            "Voor de vertalingen is gebruikt gemaakt van i18next"
+            "Voor de vertalingen is gebruikt gemaakt van i18next",
+            "Zie Github voor meer info"
         ]
     },
     "monthburdens": {
@@ -17,6 +18,15 @@
             "Angular / PHP Laravel",
             "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
             "Zie Github voor meer info"
+        ]
+    },
+    "gloomhaven": {
+        "title": "Gloomhaven Charactersheet",
+        "date": "12/2017 – 10/2018",
+        "descriptions": [
+            "Een aantal vrienden en ik spelen regelmatig een bordspel genaamd Gloomhaven. Dit spel heeft een papieren charactersheet. Dit heb ik gedigitaliseerd en wat utilities aan toegevoegd.",
+            "Angular / Firebase / Firebase login / Firebase hosting",
+            "Zie Github voor meer info."
         ]
     }
 }

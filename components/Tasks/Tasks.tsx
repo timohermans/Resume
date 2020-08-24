@@ -7,16 +7,13 @@ type Props = {
 };
 
 const Tasks: React.FC<Props> = ({ taskMap }) => {
+    if (!taskMap) return null;
     const taskIndices = Object.keys(taskMap);
 
     return (
         <>
             {taskIndices.map((taskIndex: string) => (
-                <Task
-                    key={taskIndex}
-                    index={taskIndex}
-                    taskMap={taskMap}
-                />
+                <Task key={taskIndex} index={taskIndex} taskMap={taskMap} />
             ))}
         </>
     );

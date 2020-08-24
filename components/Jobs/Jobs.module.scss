@@ -5,6 +5,10 @@
 .jobContainer {
     position: relative;
     padding: 0 spacing.$md;
+
+    &:not(:first-child) {
+        padding-top: spacing.$md;
+    }
 }
 
 .jobTimeline {
@@ -25,6 +29,10 @@
     left: 50%;
     transform: translateX(calc(10px * -1));
     z-index: 2;
+}
+
+.jobContainer:not(:first-child) .jobMarker {
+    top: spacing.$md;
 }
 
 .job {

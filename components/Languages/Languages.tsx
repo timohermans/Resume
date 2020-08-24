@@ -8,19 +8,17 @@ import styles from './Languages.module.scss';
 
 const Languages: React.FC<WithTranslation> = ({ i18n }) => {
     const { t } = useTranslation();
-    const languageMap = useTranslationFileImport<LanguageMap>(
-        {
-            fileName: 'languages',
-            language: i18n.language,
-        }
-    );
+    const languageMap = useTranslationFileImport<LanguageMap>({
+        fileName: 'languages',
+        language: i18n.language,
+    });
 
     return (
         <Section header={t('resume.languages.title')}>
             <ul className={styles.languages}>
                 {languageMap &&
                     languageMap.languages.map((language: LanguageType) => (
-                        <li>
+                        <li key={language.language}>
                             <h3>{language.language}</h3>
                             <p className={styles.proficiency}>
                                 {language.proficiency}

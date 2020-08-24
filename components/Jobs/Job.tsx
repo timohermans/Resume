@@ -11,6 +11,8 @@ type Props = {
 const Job: React.FC<Props> = ({ jobName, jobMap }) => {
     const job = jobMap[jobName];
 
+    if (!job.title) return null;
+
     return (
         <li className={styles.jobContainer}>
             <aside className={styles.jobTimeline}>
@@ -27,7 +29,7 @@ const Job: React.FC<Props> = ({ jobName, jobMap }) => {
                 <p className={styles.companyDescription}>
                     {job.companyDescription}
                 </p>
-                <Tasks taskMap={job.tasks} />
+                <Tasks taskMap={job?.tasks} />
             </section>
         </li>
     );

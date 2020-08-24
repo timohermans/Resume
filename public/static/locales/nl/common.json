@@ -16,7 +16,7 @@
         "location": "Sittard, Nederland",
         "linkedin": "linkedin.com/in/timohermans",
         "github": "github.com/timohermans",
-        "intro": "Ik ben een full stack software engineer met liefde voor frontend development. Men kent mij als iemand die zaken door heeft - dit kan een nieuwe stack of een nieuw domein zijn - en weet dit duidelijk naar anderen over te brengen. Ik ben ervaren in Angular en alles C# gerelateerd. Echter, ik hou ervan om in mijn vrije tijd met andere technologieën bezig te zijn. Ik ben altijd op zoek naar nieuwe uitdagingen om mijn skills naar een hoger niveau te tillen.",
+        "intro": "Ik ben een full stack software engineer met liefde voor frontend development. Men kent mij als iemand die zaken door heeft - dit kan een nieuwe stack of een nieuw domein zijn - en weet dit duidelijk en met plezier naar anderen over te brengen. Ik ben ervaren in Angular en alles C# gerelateerd. Echter, ik hou ervan om in mijn vrije tijd met andere technologieën bezig te zijn. Ik ben altijd op zoek naar nieuwe uitdagingen om mijn skills naar een hoger niveau te tillen.",
         "skills": {
             "header": "Skills"
         },
@@ -38,16 +38,69 @@
                         "description3": "Agile werken in een scrum team"
                     }
                 }
+            },
+            "netpresenter": {
+                "title": "Frontend developer / Scrum master",
+                "company": "Netpresenter",
+                "date": "08/2019 - 04/2020",
+                "location": "Beek",
+                "companyDescription": "Netpresenter houdt zich bezig met het doorontwikkelen en verkopen van communicatie software. Zij zijn ook verantwoordelijk voor Amber Alert software.",
+                "tasks": {
+                    "task1": {
+                        "title": "Angular en Electron web development",
+                        "description1": "Verbeteren van de web applicatie op verschillende gebieden - Angular / Unit testing / CI / Docker / Sass / HTML",
+                        "description2": "Promoten en mede opzetten agile ontwikkel proces - Scrum / Scrum master"
+                    }
+                }
+            },
+            "Mediaan": {
+                "title": "Software engineer / Team lead",
+                "company": "Mediaan",
+                "date": "12/2016 - 08/2019",
+                "location": "Heerlen",
+                "companyDescription": "Mediaan maakt op maat gemaakt software op projectbasis en verleent AI services",
+                "tasks": {
+                    "task1": {
+                        "title": "Full stack web development / Team lead verantwoordelijkheden",
+                        "description1": "Ontwerpen en implementeren van een inspectie tool voor een industriele klant - Angular / .NET Core / Azure DevOps / Azure",
+                        "description2": "Ontwikkelen en onderhouden van een transactie marktplaats voor een grote internationale bank - Angular / .NET Core / Azure DevOps / Azure / Scrum",
+                        "description3": "Uitbreiden en onderhouden van een ERP systeem voor een nationale zorginstelling - Angular JS / .NET Web API / Oracle / Scrum",
+                        "description4": "Uitbreiden van een mobiele app voor het laden van elektrische auto's - Angular / Cordova / GraphQL / Jira / Scrum",
+                        "description5": "Ontwerpen en ontwikkelen van een tool die chat bots genereerd op basis van beslissingsdata - .NET Chat Bot Framework / LUIS / SQL Server",
+                        "description6": "Lesgeven van verschillende vakken op Hogeschool Zuyd, Heerlen - Web development / Cross Platform Mobile Development",
+                        "description7": "Begeleiden van studenten en stagiares op verschillende scholen.",
+                        "description8": "Ontwikkelen van een plan om een nieuwe tech stack eigen te maken en het begeleiden van senior developers die met dit plan aan de slag zijn gegaan."
+                    }
+                }
+            },
+            "bannerconnect": {
+                "title": "Software engineer",
+                "company": "Bannerconnct",
+                "date": "01/2013 - 12/2016",
+                "location": "Sittard",
+                "companyDescription": "Bannerconnect verleende diensten op het gebied van online advertising. Software dat geschreven werd, werd voornamelijk intern gebruikt",
+                "tasks": {
+                    "task1": {
+                        "title": "Full stack big data web development and R&D",
+                        "description1": "Ontwerpen en ontwikkelen van een brug tussen online en offline advertising door middel van wifi tracking - VueJS / .NET Core / MySQL / Python",
+                        "description2": "Ontwikkelen van een ecommerce dashboard met ETL processen voor Xaxis in samenwerking met een team uit New York - React / NodeJS (Sails JS) / Python / AWS S3 + Redshift",
+                        "description3": "Ontwerpen en ontwikkelen van een nieuwe versie van het interne dashboard - EmberJS / .NET Web API / MySQL",
+                        "description4": "Onderhouden van het oude interne dashboard - .NET Web Forms / MySQL / Netezza data warehouse"
+                    }
+                }
             }
         },
         "hobbyProjects": {
-            "title": "Personal Projects"
+            "title": "Persoonlijke projecten"
         },
         "languages": {
             "title": "Talen"
         },
         "education": {
             "title": "Opleiding"
+        },
+        "interests": {
+            "title": "Interesses"
         }
     }
 }

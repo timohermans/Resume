@@ -24,7 +24,7 @@ const Jobs: React.FC<WithTranslation> = ({ i18n }) => {
 
     useEffect(() => {
         fetchJobs();
-    });
+    }, [language]);
 
     return (
         <Section header={t('resume.jobsSection.header')}>
