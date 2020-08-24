@@ -39,6 +39,9 @@
                     }
                 }
             }
+        },
+        "hobbyProjects": {
+            "title": "Personal Projects"
         }
     }
 }

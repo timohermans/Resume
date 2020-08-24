@@ -1,0 +1,22 @@
+{
+    "resume": {
+        "title": "Resume",
+        "date": "08/2020",
+        "descriptions": [
+            "Ik heb in het verleden een CV service gebruikt om mijn CV te verbeteren. Deze heb ik qua UI nagebouwd",
+            "Dit project maakt gebruikt van Next.js (SSR met React)",
+            "Voor de vertalingen is gebruikt gemaakt van i18next"
+        ]
+    },
+    "monthburdens": {
+        "title": "Homebank",
+        "date": "2019 - present",
+        "descriptions": [
+            "De app You Need A Budget vind ik persoonlijk om je uitgaven mee te tracken. Echter, het feit dat ik geen Rabobank transacties kan uploaden en dat ik er geld voor moet betalen vind ik jammer. Daarom heb ik besloten om hem opnieuw te bouwen en hier nieuwe skills mee op te doen. Aangezien ik mij vaak nieuwe frameworks en technieken wil eigen maken bestaat dit project uit meerdere projecten:",
+            "Django",
+            "Angular / PHP Laravel",
+            "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
+            "Zie Github voor meer info"
+        ]
+    }
+}

@@ -9,7 +9,7 @@ type Props = {
 const DescriptionList: React.FC<Props> = ({ descriptions }) => {
     return (
         <ul className={styles.infoList}>
-            {descriptions.map((description: string, index: number) => (
+            {descriptions?.map((description: string, index: number) => (
                 <DescriptionListItem key={index}>
                     {description}
                 </DescriptionListItem>

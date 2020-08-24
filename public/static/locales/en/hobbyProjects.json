@@ -1,0 +1,11 @@
+{
+    "resume": {
+        "title": "Resume",
+        "date": "08/2020",
+        "descriptions": [
+            "Ik heb in het verleden een CV service gebruikt om mijn CV te verbeteren. Deze heb ik qua UI nagebouwd",
+            "Dit project maakt gebruikt van Next.js (SSR met React)",
+            "Voor de vertalingen is gebruikt gemaakt van i18next"
+        ]
+    }
+}

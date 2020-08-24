@@ -14,7 +14,7 @@ const Jobs: React.FC<WithTranslation> = ({ i18n }) => {
 
     const fetchJobs = async () => {
         // improvement here could be to rip out the jobs json
-        // put it in a different file in the locale folder :)
+        // put it in a different file in the locale folder
         const translations = await import(
             `../../public/static/locales/${language}/common.json`
         );

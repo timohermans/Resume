@@ -1,0 +1,14 @@
+@use '../../styles/spacing';
+@use '../../styles/typography';
+
+.hobbyProjectsContainer {
+    padding: 0 spacing.$l;
+}
+
+.hobbyProject:not(:first-child) {
+    margin-top: spacing.$sm;
+}
+
+.date {
+    @include typography.secondaryTitle();
+}

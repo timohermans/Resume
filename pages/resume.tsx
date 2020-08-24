@@ -7,6 +7,7 @@ import Header from '../components/Header/Header';
 import Intro from '../components/Intro/Intro';
 import Skills from '../components/Skills/Skills';
 import Jobs from '../components/Jobs/Jobs';
+import HobbyProjects from '../components/HobbyProjects/HobbyProjects';
 
 const resume = {
     name: 'Timo Hermans',
@@ -31,6 +32,7 @@ const Resume: NextPage = () => {
             <Intro />
             <Skills />
             <Jobs />
+            <HobbyProjects />
         </article>
     );
 };

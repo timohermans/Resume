@@ -5,7 +5,7 @@ const DescriptionListItem: React.FC = (props) => {
     return (
         <li className={styles.listItem}>
             <div className={styles.listItemBullet}></div>
-            <span className={styles.listItemContent}>{props.children}</span>
+            <p className={styles.listItemContent}>{props.children}</p>
         </li>
     );
 };
