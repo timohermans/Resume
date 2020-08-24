@@ -9,9 +9,9 @@
 .task {
     position: relative;
     padding: typography.$sm;
-    margin: spacing.$sm;
     border-left: 2px solid colors.$green;
     border-right: 2px solid colors.$green;
+    margin-top: spacing.$sm;
 
     @mixin border {
         position: absolute;

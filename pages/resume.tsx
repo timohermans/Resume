@@ -1,6 +1,5 @@
 import { NextPage } from 'next';
 import Head from 'next/head';
-import i18n from '../i18n';
 import styles from '../styles/Resume.module.scss';
 import InfoList from '../components/InfoList/InfoList';
 import Header from '../components/Header/Header';
@@ -11,6 +10,8 @@ import HobbyProjects from '../components/HobbyProjects/HobbyProjects';
 import Languages from '../components/Languages/Languages';
 import Education from '../components/Education/Education';
 import Interests from '../components/Interests/Interests';
+import i18nConfig, { useTranslation } from '../i18n';
+import { WithTranslation } from 'next-i18next';
 
 const resume = {
     name: 'Timo Hermans',
@@ -22,13 +23,15 @@ const resume = {
     github: 'github.com/timohermans',
 };
 
-const Resume: NextPage = () => {
-    const { t } = i18n.useTranslation();
+const Resume = ({ i18n }) => {
+    const { t } = useTranslation();
 
     return (
         <article className={styles.page}>
             <Head>
-                <title>{t('resume.title')} - Timo Hermans</title>
+                <title>
+                    {t('resume.title')} - Timo Hermans - {i18n.language}
+                </title>
             </Head>
 
             <Header />
@@ -49,4 +52,4 @@ Resume.getInitialProps = async () => {
     };
 };
 
-export default Resume;
+export default i18nConfig.withTranslation()(Resume);
