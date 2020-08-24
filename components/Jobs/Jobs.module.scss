@@ -46,7 +46,12 @@
     font-weight: 400;
 }
 
-.date,
+.dateLocation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dateLocation,
 .companyDescription {
     @include typography.secondaryTitle();
 }

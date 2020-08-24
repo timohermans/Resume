@@ -5,6 +5,7 @@ export type JobMap = {
         title: string;
         company: string;
         date: string;
+        location: string;
         companyDescription: string;
         tasks: TaskMap;
     };

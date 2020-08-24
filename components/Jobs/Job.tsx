@@ -20,13 +20,14 @@ const Job: React.FC<Props> = ({ jobName, jobMap }) => {
             <section className={styles.job}>
                 <h3 className={styles.title}>{job.title}</h3>
                 <h4 className={styles.subTitle}>{job.company}</h4>
-                <p className={styles.date}>{job.date}</p>
+                <p className={styles.dateLocation}>
+                    <span>{job.date}</span>
+                    <span>{job.location}</span>
+                </p>
                 <p className={styles.companyDescription}>
                     {job.companyDescription}
                 </p>
-                <Tasks
-                    taskMap={job.tasks}
-                />
+                <Tasks taskMap={job.tasks} />
             </section>
         </li>
     );
