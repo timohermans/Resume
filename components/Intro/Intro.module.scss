@@ -1,0 +1,6 @@
+@use '../../styles/spacing';
+
+.intro {
+    padding: 0 spacing.$l;
+    margin: spacing.$md 0;
+}

@@ -1,7 +1,7 @@
 import React from 'react';
 import i18n from '../../i18n';
 import InfoListItem from './InfoListItem';
-import styles from './InfoList.module.css';
+import styles from './InfoList.module.scss';
 
 const infoListFacets = [
     { text: 'resume.email', icon: '/icons/email.svg' },

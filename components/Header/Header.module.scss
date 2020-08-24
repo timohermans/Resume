@@ -2,14 +2,14 @@
 
 .header {
     display: flex;
-    padding: spacing.$defaultSpacing;
+    padding: spacing.$l spacing.$l 0;
 }
 
 .headerImage {
     border-radius: 49%;
     border: 1px solid #ddd;
-    max-width: 149px;
-    height: 149px;
+    max-width: 196px;
+    height: 196px;
 }
 
 .headerNameContainer {

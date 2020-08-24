@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from '../../i18n';
-import styles from './InfoList.module.css';
+import styles from './InfoList.module.scss';
 
 type Props = {
     text: string;

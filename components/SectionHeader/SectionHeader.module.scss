@@ -1,0 +1,8 @@
+@use '../../styles/spacing';
+@use '../../styles/colors';
+
+.sectionHeading {
+    padding: 0 spacing.$l 4px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid colors.$green;
+}

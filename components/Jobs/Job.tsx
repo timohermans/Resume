@@ -1,0 +1,33 @@
+import React from 'react';
+import styles from './Jobs.module.scss';
+import { JobMap } from './jobTypes';
+import JobTasks from '../JobTasks/JobTasks';
+
+type Props = {
+    jobName: string;
+    jobMap: JobMap;
+};
+
+const Job: React.FC<Props> = ({ jobName, jobMap }) => {
+    const job = jobMap[jobName];
+
+    return (
+        <li className={styles.jobContainer}>
+            <aside className={styles.jobTimeline}>
+                <div className={styles.jobMarker} />
+            </aside>
+
+            <section className={styles.job}>
+                <h3 className={styles.title}>{job.title}</h3>
+                <h4 className={styles.subTitle}>{job.company}</h4>
+                <p className={styles.date}>{job.date}</p>
+                <p className={styles.companyDescription}>
+                    {job.companyDescription}
+                </p>
+                <JobTasks taskMap={job.tasks} />
+            </section>
+        </li>
+    );
+};
+
+export default Job;

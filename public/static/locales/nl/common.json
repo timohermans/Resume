@@ -17,11 +17,17 @@
         "linkedin": "linkedin.com/in/timohermans",
         "github": "github.com/timohermans",
         "intro": "Ik ben een full stack software engineer met liefde voor frontend development. Men kent mij als iemand die zaken door heeft - dit kan een nieuwe stack of een nieuw domein zijn - en weet dit duidelijk naar anderen over te brengen. Ik ben ervaren in Angular en alles C# gerelateerd. Echter, ik hou ervan om in mijn vrije tijd met andere technologieën bezig te zijn. Ik ben altijd op zoek naar nieuwe uitdagingen om mijn skills naar een hoger niveau te tillen.",
+        "skills": {
+            "header": "Skills"
+        },
+        "jobsSection": {
+            "header": "Werkervaring"
+        },
         "jobs": {
             "kabisa": {
                 "title": "Developer / Consultant",
                 "company": "Kabisa",
-                "datum": "04-2020 - heden",
+                "date": "04-2020 - heden",
                 "companyDescription": "Kabisa omschrijving",
                 "tasks": {
                     "task1": {
@@ -31,7 +37,7 @@
                         "description3": "Agile werken in een scrum team"
                     }
                 }
-            },
+            }
         }
     }
 }

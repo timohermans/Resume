@@ -1,0 +1,9 @@
+@use '../../styles/spacing';
+
+.section {
+    margin-top: spacing.$sm;
+
+    &:not(:last-child) {
+        margin-bottom: spacing.$md;
+    }
+}

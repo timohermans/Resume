@@ -1,0 +1,58 @@
+@use '../../styles/spacing';
+@use '../../styles/typography';
+@use '../../styles/colors';
+
+.jobContainer {
+    position: relative;
+    padding: 0 spacing.$md;
+}
+
+.jobTimeline {
+    background-color: colors.$green;
+    position: absolute;
+    top: 6px;
+    width: 2px;
+    height: 100%;
+}
+
+.jobMarker {
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 4px solid colors.$green;
+    left: 50%;
+    transform: translateX(calc(10px * -1));
+    z-index: 2;
+}
+
+.job {
+    padding: 0 spacing.$md;
+}
+
+.title,
+.subTitle {
+    font-size: typography.$l;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-weight: 700;
+}
+
+.subTitle {
+    font-weight: 400;
+}
+
+.date,
+.companyDescription {
+    color: colors.$green;
+    font-style: italic;
+    font-size: typography.$sm;
+}
+
+.companyDescription {
+    color: colors.$grey;
+}

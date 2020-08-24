@@ -4,6 +4,9 @@ import i18n from '../i18n';
 import styles from '../styles/Resume.module.scss';
 import InfoList from '../components/InfoList/InfoList';
 import Header from '../components/Header/Header';
+import Intro from '../components/Intro/Intro';
+import Skills from '../components/Skills/Skills';
+import Jobs from '../components/Jobs/Jobs';
 
 const resume = {
     name: 'Timo Hermans',
@@ -25,8 +28,9 @@ const Resume: NextPage = () => {
             </Head>
 
             <Header />
-
-            <main></main>
+            <Intro />
+            <Skills />
+            <Jobs />
         </article>
     );
 };
