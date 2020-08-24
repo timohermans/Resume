@@ -1,8 +1,9 @@
 import { NextPage } from 'next';
 import Head from 'next/head';
 import i18n from '../i18n';
-import styles from '../styles/Resume.module.css';
+import styles from '../styles/Resume.module.scss';
 import InfoList from '../components/InfoList/InfoList';
+import Header from '../components/Header/Header';
 
 const resume = {
     name: 'Timo Hermans',
@@ -23,16 +24,7 @@ const Resume: NextPage = () => {
                 <title>{t('resume.title')} - Timo Hermans</title>
             </Head>
 
-            <header className={styles.header}>
-                <img src="/timo-pp.jpg" className={styles.headerImage} />
-                <section className={styles.headerNameContainer}>
-                    <h1 className={styles.headerName}>{t('resume.name')}</h1>
-                    <p className={styles.headerJob}>{t('resume.jobTitle')}</p>
-                </section>
-                <section className={styles.headerInfo}>
-                    <InfoList />
-                </section>
-            </header>
+            <Header />
 
             <main></main>
         </article>

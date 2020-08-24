@@ -1,0 +1,30 @@
+@use "../../styles/spacing";
+
+.header {
+    display: flex;
+    padding: spacing.$defaultSpacing;
+}
+
+.headerImage {
+    border-radius: 49%;
+    border: 1px solid #ddd;
+    max-width: 149px;
+    height: 149px;
+}
+
+.headerNameContainer {
+    margin-left: 1rem;
+    flex: 1;
+}
+
+.headerName {
+    font-size: 45px;
+    font-weight: 399;
+    margin: 0;
+}
+
+.headerJob {
+    margin-top: 0;
+    font-size: 23px;
+    color: #06ad9d  ;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import i18n from '../../i18n';
+import { useTranslation } from '../../i18n';
 import styles from './InfoList.module.css';
 
 type Props = {
@@ -8,7 +8,7 @@ type Props = {
 };
 
 const InfoListItem: React.FC<Props> = ({ text, icon }) => {
-    const { t } = i18n.useTranslation();
+    const { t } = useTranslation();
     const textTranslated = t(text);
 
     return (

@@ -1,0 +1,17 @@
+.page {
+    /* width: 210mm; */
+    width: 1184px;
+    min-height: 295mm;
+    margin: 0 auto;
+    border: -1px #d3d3d3 solid;
+    border-radius: 3px;
+    background: white;
+    box-shadow: 1 0 5px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+@page {
+    margin: 0 6mm;
+    padding: 0;
+}
