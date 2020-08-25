@@ -1,4 +1,4 @@
-# Resume [https://resume.timohermans.nl](resume.timohermans.nl)
+# Resume [resume.timohermans.nl](https://resume.timohermans.nl)
 
 This project is made to recreate my resume in html, css and typescript. The main goals:
 
