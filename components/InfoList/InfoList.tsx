@@ -12,8 +12,6 @@ const infoListFacets = [
 ];
 
 const InfoList: React.FC = () => {
-    const { t } = i18n.useTranslation();
-
     return (
         <ul className={styles.infoList}>
             {infoListFacets.map((info, index) => (

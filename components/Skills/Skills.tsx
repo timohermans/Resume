@@ -1,5 +1,4 @@
 import React from 'react';
-import SectionHeader from '../SectionHeader/SectionHeader';
 import { useTranslation } from '../../i18n';
 import styles from './Skills.module.scss';
 import Section from '../Section/Section';

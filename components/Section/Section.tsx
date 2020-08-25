@@ -1,6 +1,5 @@
 import React, { PropsWithChildren } from 'react';
 import SectionHeader from '../SectionHeader/SectionHeader';
-import { useTranslation } from '../../i18n';
 import styles from './Section.module.scss';
 
 type Props = {
