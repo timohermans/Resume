@@ -1,3 +1,11 @@
+# Resume [https://resume.timohermans.nl](resume.timohermans.nl)
+
+This project is made to recreate my resume in html, css and typescript. The main goals:
+
+- One resume, multiple languages
+- Printer friendly
+- Being able to link my resume on the web
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
