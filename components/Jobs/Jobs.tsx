@@ -1,6 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { useTranslation } from '../../i18n';
-import styles from './Jobs.module.scss';
 import Section from '../Section/Section';
 import i18nConfig from '../../i18n';
 import { WithTranslation } from 'next-i18next';

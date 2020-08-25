@@ -11,17 +11,6 @@ import Languages from '../components/Languages/Languages';
 import Education from '../components/Education/Education';
 import Interests from '../components/Interests/Interests';
 import i18nConfig, { useTranslation } from '../i18n';
-import { WithTranslation } from 'next-i18next';
-
-const resume = {
-    name: 'Timo Hermans',
-    jobTitle: 'Software Engineer',
-    email: 'tmhermans@gmail.com',
-    phoneNumber: '+31611621075',
-    location: 'Sittard, Nederland',
-    linkedin: 'linkedin.com/in/timohermans',
-    github: 'github.com/timohermans',
-};
 
 const Resume = ({ i18n }) => {
     const { t } = useTranslation();

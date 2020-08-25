@@ -10,6 +10,7 @@ type Props = {
 
 const Task: React.FC<Props> = ({ index, taskMap }) => {
     const taskData = taskMap[index];
+    // TODO: refactor jobs and remove this ugly piece of code
     const task = Object.keys(taskData).reduce<TaskType>(
         (taskNew: TaskType, property: string) => {
             if (property === 'title') taskNew.title = taskData[property];
