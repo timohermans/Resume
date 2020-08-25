@@ -8,7 +8,7 @@ const Header: React.FC = () => {
 
     return (
         <header className={styles.header}>
-            <img src="/timo-pp.jpg" className={styles.headerImage} />
+            <img src="/images/timo-pp.jpg" className={styles.headerImage} />
             <section className={styles.headerNameContainer}>
                 <h1 className={styles.headerName}>{t('resume.name')}</h1>
                 <p className={styles.headerJob}>{t('resume.jobTitle')}</p>

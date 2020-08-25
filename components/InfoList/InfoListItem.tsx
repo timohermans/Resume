@@ -13,7 +13,7 @@ const InfoListItem: React.FC<Props> = ({ text, icon }) => {
 
     return (
         <li className={styles.infoListItem}>
-            <span>{textTranslated}</span>
+            <span className={styles.infoText}>{textTranslated}</span>
             <img src={icon} alt={textTranslated} />
         </li>
     );

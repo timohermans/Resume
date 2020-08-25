@@ -13,7 +13,7 @@ const Home: NextPage = () => {
             </Head>
 
             <header className={styles.header}>
-                <img src="/timo-pp.jpg" className={styles.headerImage} />
+                <img src="/images/timo-pres.jpg" className={styles.headerImage} />
             </header>
 
             <main className={styles.main}>

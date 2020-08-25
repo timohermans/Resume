@@ -18,7 +18,7 @@ const Languages: React.FC<WithTranslation> = ({ i18n }) => {
             <ul className={styles.languages}>
                 {languageMap &&
                     languageMap.languages.map((language: LanguageType) => (
-                        <li key={language.language}>
+                        <li key={language.language} className={styles.language}>
                             <h3>{language.language}</h3>
                             <p className={styles.proficiency}>
                                 {language.proficiency}

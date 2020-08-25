@@ -3,8 +3,11 @@
 
 .languages {
     display: flex;
-    gap: spacing.$l;
     padding: 0 spacing.$l;
+
+    &:not(:first-child) {
+        margin-left: spacing.$l;
+    }
 }
 
 .proficiency {

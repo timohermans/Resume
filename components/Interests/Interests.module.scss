@@ -7,11 +7,12 @@
     flex-wrap: wrap;
     margin: 0;
     padding: 0 spacing.$l;
-    gap: spacing.$sm;
+    margin: spacing.$sm * -1;
 }
 
 .interestsListItem {
     border: 2px solid colors.$green;
     padding: 6px 14px;
     border-radius: 6px;
+    margin: spacing.$sm;
 }

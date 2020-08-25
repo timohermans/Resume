@@ -16,7 +16,7 @@
         "location": "Sittard, Nederland",
         "linkedin": "linkedin.com/in/timohermans",
         "github": "github.com/timohermans",
-        "intro": "Ik ben een full stack software engineer met liefde voor frontend development. Men kent mij als iemand die zaken door heeft - dit kan een nieuwe stack of een nieuw domein zijn - en weet dit duidelijk en met plezier naar anderen over te brengen. Ik ben ervaren in Angular en alles C# gerelateerd. Echter, ik hou ervan om in mijn vrije tijd met andere technologieën bezig te zijn. Ik ben altijd op zoek naar nieuwe uitdagingen om mijn skills naar een hoger niveau te tillen.",
+        "intro": "Ik ben een full stack software engineer met liefde voor frontend development. Men kent mij als iemand die zaken snel door heeft - dit kan een nieuwe stack of een nieuw domein zijn - en weet dit duidelijk en met plezier naar anderen over te brengen. Ik ben ervaren in alles web development en het begeleiden van mensen. Ik ben altijd op zoek naar nieuwe uitdagingen om mijn skills naar een hoger niveau te tillen.",
         "skills": {
             "header": "Skills"
         },
@@ -58,7 +58,7 @@
                 "company": "Mediaan",
                 "date": "12/2016 - 08/2019",
                 "location": "Heerlen",
-                "companyDescription": "Mediaan ma   akt op maat gemaakt software op projectbasis en verleent AI services",
+                "companyDescription": "Mediaan maakt op maat gemaakt software op projectbasis en verleent AI services",
                 "tasks": {
                     "task1": {
                         "title": "Full stack web development / Team lead verantwoordelijkheden",
@@ -75,7 +75,7 @@
             },
             "bannerconnect": {
                 "title": "Software engineer",
-                "company": "Bannerconnct",
+                "company": "Bannerconnect",
                 "date": "01/2013 - 12/2016",
                 "location": "Sittard",
                 "companyDescription": "Bannerconnect verleende diensten op het gebied van online advertising. Software dat geschreven werd, werd voornamelijk intern gebruikt",
