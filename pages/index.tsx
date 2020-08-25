@@ -13,16 +13,16 @@ const Home: NextPage = () => {
             </Head>
 
             <header className={styles.header}>
-                <img src="/images/timo-pres.jpg" className={styles.headerImage} />
+                <img
+                    src="/images/timo-pres.jpg"
+                    className={styles.headerImage}
+                />
             </header>
 
             <main className={styles.main}>
                 <h1 className={styles.title}>{t('home.welcome')}</h1>
 
-                <p className={styles.description}>
-                    Select a language to view a resume. They are printer
-                    friendly.
-                </p>
+                <p className={styles.description}>{t('home.explanation')}</p>
 
                 <div className={styles.grid}>
                     <a href="/nl/resume" className={styles.card}>

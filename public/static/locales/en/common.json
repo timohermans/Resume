@@ -1,7 +1,7 @@
 {
     "home": {
         "welcome": "Welcome to my resume!",
-        "explanation": "Choose a language to view my resume",
+        "explanation": "Select a language to view a resume. They are printer friendly.",
         "dutchTitle": "Dutch",
         "dutchDescription": "Resume in Dutch",
         "englishTitle": "English",
