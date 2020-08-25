@@ -3,9 +3,32 @@
         "title": "Resume",
         "date": "08/2020",
         "descriptions": [
-            "Ik heb in het verleden een CV service gebruikt om mijn CV te verbeteren. Deze heb ik qua UI nagebouwd",
-            "Dit project maakt gebruikt van Next.js (SSR met React)",
-            "Voor de vertalingen is gebruikt gemaakt van i18next"
+            "In the past I've used an online service to create my resume. However, it costs money to export it every time",
+            "So I decided to rebuild my resume with a frontend framework",
+            "This project uses Next.js (SSR met React)",
+            "For localization I used i18next",
+            "Look at Github for more info"
+        ]
+    },
+    "monthburdens": {
+        "title": "Homebank",
+        "date": "2019 - present",
+        "descriptions": [
+            "I really love using the app You Need A Budget. However, there are two thing I don't like: I need to pay for it and I cannot upload Rabobank transaction files automatically.",
+            "So I decided to recreate the app with different framework combinations in mind. As for the backend, I always try to implement the vertical slice architecture from Jimmy Bogard within different backend frameworks, which is really cool. See the following frameworks:",
+            "Django",
+            "Angular / PHP Laravel",
+            "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
+            "Look at Github for more info"
+        ]
+    },
+    "gloomhaven": {
+        "title": "Gloomhaven Charactersheet",
+        "date": "12/2017 – 10/2018",
+        "descriptions": [
+            "Me and my friends play a board game Gloomhaven, which had a character statistics sheet which I created a web app for.",
+            "Angular / Firebase / Firebase login / Firebase hosting",
+            "Look at Github for more info"
         ]
     }
 }

@@ -48,7 +48,7 @@
                 "tasks": {
                     "task1": {
                         "title": "Angular en Electron web development",
-                        "description1": "Verbeteren van de web applicatie op verschillende gebieden - Angular / Unit testing / CI / Docker / Sass / HTML",
+                        "description1": "Verbeteren van de web applicatie op verschillende gebieden - Angular / Unit testing / Cypress / CI / Docker / Sass / HTML",
                         "description2": "Promoten en mede opzetten agile ontwikkel proces - Scrum / Scrum master"
                     }
                 }
@@ -62,14 +62,19 @@
                 "tasks": {
                     "task1": {
                         "title": "Full stack web development / Team lead verantwoordelijkheden",
-                        "description1": "Ontwerpen en implementeren van een inspectie tool voor een industriele klant - Angular / .NET Core / Azure DevOps / Azure",
-                        "description2": "Ontwikkelen en onderhouden van een transactie marktplaats voor een grote internationale bank - Angular / .NET Core / Azure DevOps / Azure / Scrum",
-                        "description3": "Uitbreiden en onderhouden van een ERP systeem voor een nationale zorginstelling - Angular JS / .NET Web API / Oracle / Scrum",
-                        "description4": "Uitbreiden van een mobiele app voor het laden van elektrische auto's - Angular / Cordova / GraphQL / Jira / Scrum",
-                        "description5": "Ontwerpen en ontwikkelen van een tool die chat bots genereerd op basis van beslissingsdata - .NET Chat Bot Framework / LUIS / SQL Server",
-                        "description6": "Lesgeven van verschillende vakken op Hogeschool Zuyd, Heerlen - Web development / Cross Platform Mobile Development",
-                        "description7": "Begeleiden van studenten en stagiares op verschillende scholen.",
-                        "description8": "Ontwikkelen van een plan om een nieuwe tech stack eigen te maken en het begeleiden van senior developers die met dit plan aan de slag zijn gegaan."
+                        "description1": "Ontwerpen en implementeren van een inspectie tool voor het industriele begrijf PDM Group - Angular / .NET Core / Azure DevOps / Azure",
+                        "description2": "Ontwikkelen en onderhouden van een transactie marktplaats voor de bank HSBC Duitsland - Angular / .NET Core / Azure DevOps / Azure / Scrum",
+                        "description3": "Uitbreiden en onderhouden van een ERP systeem voor Aevitae - Angular JS / .NET Web API / Oracle / Scrum",
+                        "description4": "Uitbreiden van een mobiele app voor het laden van elektrische auto's voor het bedrijf Innogy - Angular / Cordova / GraphQL / Jira / Scrum",
+                        "description5": "Ontwerpen en ontwikkelen van een tool die chat bots genereerd op basis van beslissingsdata voor het bedrijf PNA - .NET Chat Bot Framework / LUIS / SQL Server"
+                    },
+                    "task2": {
+                        "title": "Team lead verantwoordelijkheden",
+                        "description1": "Het lesgeven en begeleiden van een web development curriculum op Hogeschool Zuyd Heerlen",
+                        "description2": "Het lesgeven en begeleiden van een cross platform mobile development minor Hogeschool Zuyd Heerlen",
+                        "description3": "Begeleiden en trainen van verschillende stagiaires, verschillend van web tot VR development. Hogeschool Zuyd, Fontys, PXL, Hogeschool Groningen",
+                        "description4": "Een plan ontworpen om senioren binnen Mediaan om een moderne web development stack eigen te maken",
+                        "description5": "Naar verschillende locaties gegaan om Mediaan te promoten"
                     }
                 }
             },

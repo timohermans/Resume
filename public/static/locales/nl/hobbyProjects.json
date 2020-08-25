@@ -11,9 +11,9 @@
     },
     "monthburdens": {
         "title": "Homebank",
-        "date": "2019 - present",
+        "date": "2019 - heden",
         "descriptions": [
-            "De app You Need A Budget vind ik persoonlijk om je uitgaven mee te tracken. Echter, het feit dat ik geen Rabobank transacties kan uploaden en dat ik er geld voor moet betalen vind ik jammer. Daarom heb ik besloten om hem opnieuw te bouwen en hier nieuwe skills mee op te doen. Aangezien ik mij vaak nieuwe frameworks en technieken wil eigen maken bestaat dit project uit meerdere projecten:",
+            "De app You Need A Budget vind ik persoonlijk geweldig om je uitgaven mee te tracken. Echter, het feit dat ik geen Rabobank transacties kan uploaden en dat ik er geld voor moet betalen vind ik jammer. Daarom heb ik besloten om hem opnieuw te bouwen en hier nieuwe skills mee op te doen. Aangezien ik mij vaak nieuwe frameworks en technieken wil eigen maken bestaat dit project uit meerdere projecten:",
             "Django",
             "Angular / PHP Laravel",
             "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
