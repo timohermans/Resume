@@ -24,10 +24,20 @@
             "header": "Work Experience"
         },
         "jobs": {
+            "fontys": {
+                "title": "Teacher ICT",
+                "company": "Fontys",
+                "date": "11-2020 - present",
+                "location": "Eindhoven",
+                "companyDescription": "FHICT educates student into professionals in many different areas",
+                "tasks": {
+
+                }
+            },
             "kabisa": {
                 "title": "Developer / Consultant",
                 "company": "Kabisa",
-                "date": "04-2020 - present",
+                "date": "04/2020 - 11/2020",
                 "location": "Weert",
                 "companyDescription": "Kabisa's specialty is software solutions for Hightech, Logistics & (Complex) E-Commerce companies.",
                 "tasks": {

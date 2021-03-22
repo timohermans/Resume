@@ -24,10 +24,20 @@
             "header": "Werkervaring"
         },
         "jobs": {
+            "fontys": {
+                "title": "Docent ICT",
+                "company": "Fontys",
+                "date": "11/2020 - heden",
+                "location": "Eindhoven",
+                "companyDescription": "Fontys Hogeschool ICT leidt studenten op tot professionals in verschillende expertises",
+                "tasks": {
+
+                }
+            },
             "kabisa": {
                 "title": "Developer / Consultant",
                 "company": "Kabisa",
-                "date": "04-2020 - heden",
+                "date": "04/2020 - 11/2020",
                 "location": "Weert",
                 "companyDescription": "Kabisa is specialist in softwareoplossingen voor Hightech, Logistics & (Complex) E-Commerce bedrijven.",
                 "tasks": {

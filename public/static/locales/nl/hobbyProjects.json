@@ -1,4 +1,15 @@
 {
+    "studentprogress": {
+        "title": "StudentProgress",
+        "date": "11/2020 - heden",
+        "descriptions": [
+            "Om de verschillende studenten bij te houden op verschillende leeruitkomsten heb ik deze applicatie ontwikkeld",
+            "Dit project maakt gebruikt van .NET 5 Razor Pages, AlpineJS, Entity Framework en Vertical Slice Architecture",
+            "De business logica is volledig getest met integratie testen, geinspireerd door Vladimir Khorikov",
+            "CI/CD is opgezet met Drone.io",
+            "Zie Github voor meer info"
+        ]
+    },
     "resume": {
         "title": "Resume",
         "date": "08/2020",
@@ -11,7 +22,7 @@
     },
     "monthburdens": {
         "title": "Homebank",
-        "date": "2019 - heden",
+        "date": "2019",
         "descriptions": [
             "De app You Need A Budget vind ik persoonlijk geweldig om je uitgaven mee te tracken. Echter, het feit dat ik geen Rabobank transacties kan uploaden en dat ik er geld voor moet betalen vind ik jammer. Daarom heb ik besloten om hem opnieuw te bouwen en hier nieuwe skills mee op te doen. Aangezien ik mij vaak nieuwe frameworks en technieken wil eigen maken bestaat dit project uit meerdere projecten:",
             "Django",

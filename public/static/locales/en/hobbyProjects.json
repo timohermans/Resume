@@ -1,4 +1,15 @@
 {
+    "studentprogress": {
+        "title": "StudentProgress",
+        "date": "11/2020 - present",
+        "descriptions": [
+            "I've developed this application to track all students' learning outcomes",
+            "This project is built using .NET 5 Razor Pages, AlpineJS, Entity Framework and Vertical Slice Architecture",
+            "The business logic code is fully tested with integration tests, inspired by Vladimir Khorikov",
+            "CI/CD is setup with Drone.io",
+            "See Github for more info"
+        ]
+    },
     "resume": {
         "title": "Resume",
         "date": "08/2020",
@@ -7,7 +18,7 @@
             "So I decided to rebuild my resume with a frontend framework",
             "This project uses Next.js (SSR met React)",
             "For localization I used i18next",
-            "Look at Github for more info"
+            "See Github for more info"
         ]
     },
     "monthburdens": {
@@ -19,7 +30,7 @@
             "Django",
             "Angular / PHP Laravel",
             "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
-            "Look at Github for more info"
+            "See Github for more info"
         ]
     },
     "gloomhaven": {
@@ -28,7 +39,7 @@
         "descriptions": [
             "Me and my friends play a board game Gloomhaven, which had a character statistics sheet which I created a web app for.",
             "Angular / Firebase / Firebase login / Firebase hosting",
-            "Look at Github for more info"
+            "See Github for more info"
         ]
     }
 }
