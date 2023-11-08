@@ -32,7 +32,22 @@
                         "date": "11-2020 - present",
                         "location": "Eindhoven",
                         "companyDescription": "FHICT educates student into professionals in many different areas",
-                        "tasks": {}
+                        "tasks": {
+                            "task1": {
+                                "title": "Lower-level teacher",
+                                "descriptions": [
+                                    "Guiding and coaching first-year students in the software development process with .NET and ASP.NET",
+                                    "Coaching second-year students in the full-stack web development process with front-end and back-end frameworks, CI, and Docker"
+                                ]
+                            },
+                            "task2": {
+                                "title": "Upper-level teacher",
+                                "descriptions": [
+                                    "Coaching third-year students in making well-argued choices during the software development process",
+                                    "Coaching third-year students in converting the client's wishes and demands into quality software"
+                                ]
+                            }
+                        }
                     },
                     "kabisa": {
                         "title": "Developer / Consultant",
@@ -42,6 +57,14 @@
                         "companyDescription": "Kabisa's specialty is software solutions for Hightech, Logistics & (Complex) E-Commerce companies.",
                         "tasks": {
                             "task1": {
+                                "title": "Web and bridge development for Signify, creator of Philips Hue",
+                                "descriptions": [
+                                    "Frontend development with Preact",
+                                    "Backend development with Elixir Phoenix (functional programming)",
+                                    "Bridge development with TypeScript and Docker"
+                                ]
+                            },
+                            "task2": {
                                 "title": "Full stack web development for camping booking company Vacansoleil",
                                 "descriptions": [
                                     "Frontend development with SSR Next.js",
@@ -129,6 +152,12 @@
                 }
             },
             "education": {
+                "fontys": {
+                    "title": "BKO (basic education qualification)",
+                    "company": "Fontys university of applied sciences",
+                    "location": "Eindhoven",
+                    "date": "12/2022"
+                },
                 "microsoft": {
                     "title": "Microsoft MCSD: App Builder",
                     "company": "Microsoft Exams",
@@ -153,34 +182,32 @@
                     "title": "StudentProgress",
                     "date": "11/2020 - present",
                     "descriptions": [
-                        "I've developed this application to track all students' learning outcomes",
-                        "This project is built using .NET 5 Razor Pages, AlpineJS, Entity Framework and Vertical Slice Architecture",
-                        "The business logic code is fully tested with integration tests, inspired by Vladimir Khorikov",
-                        "CI/CD is setup with Drone.io",
-                        "See Github for more info"
+                        "I've developed this application to track all students' learning outcomes.",
+                        "This project is built using .NET 5 Razor Pages, AlpineJS, Entity Framework and Vertical Slice Architecture.",
+                        "The business logic code is fully tested with integration tests, inspired by Vladimir Khorikov.",
+                        "CI/CD is setup with Drone.io.",
+                        "See Github for more info."
                     ]
                 },
                 "resume": {
                     "title": "Resume",
-                    "date": "08/2020",
+                    "date": "08/2020, 11/2023",
                     "descriptions": [
-                        "In the past I've used an online service to create my resume. However, it costs money to export it every time",
-                        "So I decided to rebuild my resume with a frontend framework",
-                        "This project uses Next.js (SSR met React)",
-                        "For localization I used i18next",
-                        "See Github for more info"
+                        "In the past I've used an online service to create my resume. However, it costs money to export it every time.",
+                        "The first version ran on Next.js 9 (2020).",
+                        "Rebuilt (more like refactored) with React and Vite.",
+                        "For localization I used i18next.",
+                        "See Github for more info."
                     ]
                 },
                 "monthburdens": {
-                    "title": "Homebank",
-                    "date": "2019 - present",
+                    "title": "Budget overview",
+                    "date": "2019 - 2022",
                     "descriptions": [
-                        "I really love using the app You Need A Budget. However, there are two thing I don't like: I need to pay for it and I cannot upload Rabobank transaction files automatically.",
-                        "So I decided to recreate the app with different framework combinations in mind. As for the backend, I always try to implement the vertical slice architecture from Jimmy Bogard within different backend frameworks, which is really cool. See the following frameworks:",
-                        "Django",
-                        "Angular / PHP Laravel",
-                        "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
-                        "See Github for more info"
+                        "I created an app where I can upload my Rabobank transaction and it shows me what I can spend each week to prevent overspending.",
+                        "Initially I created lots of different versions of this app in Python Django, Angular/PHP Laravel, React/.NET Core (with vertical slice architecture) and Svelte/PostgREST.",
+                        "The current version is built with SvelteKit and PocketBase.",
+                        "See Github for more info."
                     ]
                 },
                 "gloomhaven": {
@@ -211,7 +238,7 @@
                 }
             ],
             "skills": [
-                ".NET Core",
+                "ASP.NET",
                 "Htmx",
                 "Svelte(Kit)",
                 "React",
@@ -262,7 +289,22 @@
                         "date": "11/2020 - heden",
                         "location": "Eindhoven",
                         "companyDescription": "Fontys Hogeschool ICT leidt studenten op tot professionals in verschillende expertises",
-                        "tasks": {}
+                        "tasks": {
+                            "task1": {
+                                "title": "Docent onderbouw",
+                                "descriptions": [
+                                    "Begeleiden en coachen van eerstejaars studenten in het software ontwikkelproces met .NET en ASP.NET",
+                                    "Coachen van tweedejaars studenten in het full stack web development proces met o.a. front- en backend frameworks, CI en Docker"
+                                ]
+                            },
+                            "task2": {
+                                "title": "Docent bovenbouw",
+                                "descriptions": [
+                                    "Coachen van derdejaars studenten in het maken van goed geargumenteerde keuzes tijdens het software ontwikkelproces",
+                                    "Coachen van derdejaars studenten in het omzetten van de wensen en eisen van de klant in kwalitatieve software"
+                                ]
+                            }
+                        }
                     },
                     "kabisa": {
                         "title": "Developer / Consultant",
@@ -272,6 +314,14 @@
                         "companyDescription": "Kabisa is specialist in softwareoplossingen voor Hightech, Logistics & (Complex) E-Commerce bedrijven.",
                         "tasks": {
                             "task1": {
+                                "title": "Web and bridge development voor Signify, maker van Philips Hue",
+                                "descriptions": [
+                                    "Frontend development met Preact",
+                                    "Backend development met Elixir Phoenix (functional programming)",
+                                    "Bridge development met TypeScript and Docker"
+                                ]
+                            },
+                            "task2": {
                                 "title": "Full stack web development voor Vacansoleil",
                                 "descriptions": [
                                     "Frontend ontwikkeling met SSR Next.js",
@@ -359,6 +409,12 @@
                 }
             },
             "education": {
+                "fontys": {
+                    "title": "Basis Kwalificatie Onderwijs",
+                    "company": "Fontys Hogeschool Eindhoven",
+                    "location": "Eindhoven",
+                    "date": "12/2022"
+                },
                 "microsoft": {
                     "title": "Microsoft MCSD: App Builder",
                     "company": "Microsoft Exams",
@@ -392,23 +448,23 @@
                 },
                 "resume": {
                     "title": "Resume",
-                    "date": "08/2020",
+                    "date": "08/2020, 11/2023",
                     "descriptions": [
-                        "Ik heb in het verleden een CV service gebruikt om mijn CV te verbeteren. Deze heb ik qua UI nagebouwd",
-                        "Dit project maakt gebruikt van Next.js (SSR met React)",
-                        "Voor de vertalingen is gebruikt gemaakt van i18next",
-                        "Zie Github voor meer info"
+                        "In het verleden heb ik altijd online mijn CV gemaakt. Omdat dit geld zou gaan kosten heb ik het zelf gemaak.",
+                        "De eerste versie heb ik gemaakt met Next.js 9 (2020).",
+                        "De nieuwe versie heb ik gemaakt met Vite en React. Alle components en styling zijn opnieuw gebruikt.",
+                        "Voor de vertalingen heb ik i18next gebruikt.",
+                        "Zie Github voor meer info."
                     ]
                 },
                 "monthburdens": {
-                    "title": "Homebank",
-                    "date": "2019",
+                    "title": "Betaaloverzicht",
+                    "date": "2019 - 2022",
                     "descriptions": [
-                        "De app You Need A Budget vind ik persoonlijk geweldig om je uitgaven mee te tracken. Echter, het feit dat ik geen Rabobank transacties kan uploaden en dat ik er geld voor moet betalen vind ik jammer. Daarom heb ik besloten om hem opnieuw te bouwen en hier nieuwe skills mee op te doen. Aangezien ik mij vaak nieuwe frameworks en technieken wil eigen maken bestaat dit project uit meerdere projecten:",
-                        "Django",
-                        "Angular / PHP Laravel",
-                        "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
-                        "Zie Github voor meer info"
+                        "Ik heb een applicatie ontwikkelt waarmee ik Rabobank transacties kan uploaden en kan zien wat ik iedere kan uitgeven zonder rood te staan.",
+                        "Initieel heb ik veel verschillende versies gemaakt om nieuwe frameworks te leren, zoals Python Django, Angular/PHP Laravel, React/.NET Core (met vertical slice architecture) en Svelte/PostgREST",
+                        "De live versie is met SvelteKit en PocketBase gemaakt.",
+                        "Zie Github voor meer info."
                     ]
                 },
                 "gloomhaven": {
@@ -439,7 +495,7 @@
                 }
             ],
             "skills": [
-                ".NET Core",
+                "ASP.NET",
                 "Htmx",
                 "Svelte(Kit)",
                 "React",
