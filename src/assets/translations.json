@@ -1,0 +1,460 @@
+{
+    "en": {
+        "translation": {
+            "home": {
+                "welcome": "Welcome to my resume!",
+                "explanation": "Select a language to view a resume. They are printer friendly.",
+                "dutchTitle": "Dutch",
+                "dutchDescription": "Resume in Dutch",
+                "englishTitle": "English",
+                "englishDescription": "Resume in English"
+            },
+            "resume": {
+                "title": "Resume",
+                "name": "Timo Hermans",
+                "jobTitle": "Software Engineer",
+                "email": "tmhermans@gmail.com",
+                "phoneNumber": "+31611621075",
+                "location": "Sittard, The Netherlands",
+                "linkedin": "linkedin.com/in/timohermans",
+                "github": "github.com/timohermans",
+                "intro": "I am a full stack software engineer that has a strong affection for frontend development. People know me as someone who catches on quickly, whether it's about a new stack or a new domain. I'm also good at transferring this knowledge to others with great pleasure. I'm skilled in everything that's web development and teaching or guiding people. I'm always looking for new challenges to sharpen my skills.",
+                "skills": {
+                    "header": "Skills"
+                },
+                "jobsSection": {
+                    "header": "Work Experience"
+                },
+                "jobs": {
+                    "fontys": {
+                        "title": "Teacher ICT",
+                        "company": "Fontys",
+                        "date": "11-2020 - present",
+                        "location": "Eindhoven",
+                        "companyDescription": "FHICT educates student into professionals in many different areas",
+                        "tasks": {}
+                    },
+                    "kabisa": {
+                        "title": "Developer / Consultant",
+                        "company": "Kabisa",
+                        "date": "04/2020 - 11/2020",
+                        "location": "Weert",
+                        "companyDescription": "Kabisa's specialty is software solutions for Hightech, Logistics & (Complex) E-Commerce companies.",
+                        "tasks": {
+                            "task1": {
+                                "title": "Full stack web development for camping booking company Vacansoleil",
+                                "descriptions": [
+                                    "Frontend development with SSR Next.js",
+                                    "Backend development with Apollo server (GraphQL)",
+                                    "Working in an agile way in a dedicated Scrum team"
+                                ]
+                            }
+                        }
+                    },
+                    "netpresenter": {
+                        "title": "Frontend developer / Scrum master",
+                        "company": "Netpresenter",
+                        "date": "08/2019 - 04/2020",
+                        "location": "Beek",
+                        "companyDescription": "Netpresenter is a narrowcasting company that maintains and further develops its business to business software. They are also responsible for the European Amber Alert.",
+                        "tasks": {
+                            "task1": {
+                                "title": "Angular and Electron web development",
+                                "descriptions": [
+                                    "Improving the new frontend CMD on a wide variety of aspects - Angular / Unit testing / Cypress / CI / Docker / Sass / HTML",
+                                    "Promoting and starting an agile way of working within the development department of Netpresenter - Scrum / Scrum master"
+                                ]
+                            }
+                        }
+                    },
+                    "Mediaan": {
+                        "title": "Software engineer / Team lead",
+                        "company": "Mediaan",
+                        "date": "12/2016 - 08/2019",
+                        "location": "Heerlen",
+                        "companyDescription": "Mediaan delivers custom made software on project basis. It also has some AI solution services as well.",
+                        "tasks": {
+                            "task1": {
+                                "title": "Full stack web development",
+                                "descriptions": [
+                                    "Designing and implementing of an inspection tool for the industrial company PDM Group - Angular / .NET Core / Azure DevOps / Azure",
+                                    "Developing and maintaining of a transaction marketplace for the bank HSBC Germany - Angular / .NET Core / Azure DevOps / Azure / Scrum",
+                                    "Expanding and maintaining an ERP system for health insurance company Aevitae - Angular JS / .NET Web API / Oracle / Scrum",
+                                    "Further development of an app that enabled charging of electric cars for the company Innogy - Angular / Cordova / GraphQL / Jira / Scrum",
+                                    "Designing and developing a tool that automatically generates chat bots based on deterministic data for the company PNA - .NET Chat Bot Framework / LUIS / SQL Server"
+                                ]
+                            },
+                            "task2": {
+                                "title": "Team lead responsibilities",
+                                "descriptions": [
+                                    "Teaching a web development curriculum on Zuyd University Heerlen",
+                                    "Teaching a cross platform mobile development minor on Zuyd University Heerlen",
+                                    "Guiding and teaching several interns, ranging from web to VR development. Zuyd University, Fontys, PXL, Groningen University",
+                                    "Designed and executed a plan for seniors within Mediaan to learn a modern web development  stack.",
+                                    "Went to several events on various locations to promote Mediaan"
+                                ]
+                            }
+                        }
+                    },
+                    "bannerconnect": {
+                        "title": "Software engineer",
+                        "company": "Bannerconnect",
+                        "date": "01/2013 - 12/2016",
+                        "location": "Sittard",
+                        "companyDescription": "Bannerconnect provided online advertising services to customers. The software being made was used for internal use.",
+                        "tasks": {
+                            "task1": {
+                                "title": "Full stack big data web development and R&D",
+                                "descriptions": [
+                                    "React / Node JS / Python AWS S3 + Redshift Dashboard for Xaxis with several complex ETL processes",
+                                    "VueJS / .NET Core R&D project for offline advertising",
+                                    "EmberJS / .NET Web API Dashboard for internal ad operation managers",
+                                    ".NET Web Forms / MySQL / Netezza data warehouse dashboard for internal ad operation managers"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "hobbyProjects": {
+                    "title": "Personal Projects"
+                },
+                "languages": {
+                    "title": "Languages"
+                },
+                "education": {
+                    "title": "Education"
+                },
+                "interests": {
+                    "title": "Interests"
+                }
+            },
+            "education": {
+                "microsoft": {
+                    "title": "Microsoft MCSD: App Builder",
+                    "company": "Microsoft Exams",
+                    "location": "Online",
+                    "date": "07/2017"
+                },
+                "zuyd": {
+                    "title": "Informatica",
+                    "company": "Zuyd University",
+                    "location": "Heerlen",
+                    "date": "02/2010 - 02/2014"
+                },
+                "vwo": {
+                    "title": "VWO",
+                    "company": "Graaf Huyn College",
+                    "location": "Geleen",
+                    "date": "2003 - 2009"
+                }
+            },
+            "hobbyProjects": {
+                "studentprogress": {
+                    "title": "StudentProgress",
+                    "date": "11/2020 - present",
+                    "descriptions": [
+                        "I've developed this application to track all students' learning outcomes",
+                        "This project is built using .NET 5 Razor Pages, AlpineJS, Entity Framework and Vertical Slice Architecture",
+                        "The business logic code is fully tested with integration tests, inspired by Vladimir Khorikov",
+                        "CI/CD is setup with Drone.io",
+                        "See Github for more info"
+                    ]
+                },
+                "resume": {
+                    "title": "Resume",
+                    "date": "08/2020",
+                    "descriptions": [
+                        "In the past I've used an online service to create my resume. However, it costs money to export it every time",
+                        "So I decided to rebuild my resume with a frontend framework",
+                        "This project uses Next.js (SSR met React)",
+                        "For localization I used i18next",
+                        "See Github for more info"
+                    ]
+                },
+                "monthburdens": {
+                    "title": "Homebank",
+                    "date": "2019 - present",
+                    "descriptions": [
+                        "I really love using the app You Need A Budget. However, there are two thing I don't like: I need to pay for it and I cannot upload Rabobank transaction files automatically.",
+                        "So I decided to recreate the app with different framework combinations in mind. As for the backend, I always try to implement the vertical slice architecture from Jimmy Bogard within different backend frameworks, which is really cool. See the following frameworks:",
+                        "Django",
+                        "Angular / PHP Laravel",
+                        "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
+                        "See Github for more info"
+                    ]
+                },
+                "gloomhaven": {
+                    "title": "Gloomhaven Charactersheet",
+                    "date": "12/2017 – 10/2018",
+                    "descriptions": [
+                        "Me and my friends play a board game Gloomhaven, which had a character statistics sheet which I created a web app for.",
+                        "Angular / Firebase / Firebase login / Firebase hosting",
+                        "See Github for more info"
+                    ]
+                }
+            },
+            "interests": [
+                "Development",
+                "Food and nutrition",
+                "Fantasy books",
+                "Party games",
+                "Board games"
+            ],
+            "languages": [
+                {
+                    "language": "Dutch",
+                    "proficiency": "Fluent"
+                },
+                {
+                    "language": "English",
+                    "proficiency": "Full professional proficiency"
+                }
+            ],
+            "skills": [
+                ".NET Core",
+                "Htmx",
+                "Svelte(Kit)",
+                "React",
+                "CI/CD",
+                "Unit/Integration testing",
+                "Docker",
+                "Git",
+                "TypeScript",
+                "Spring Boot",
+                "PostgreSQL",
+                "MSSQL",
+                "Azure",
+                "Django",
+                "And more..."
+            ]
+        }
+    },
+    "nl": {
+        "translation": {
+            "home": {
+                "welcome": "Welkom bij mijn CV!",
+                "explanation": "Kies een taal om mijn CV te bekijken. Deze CV's zijn printer vriendelijk!",
+                "dutchTitle": "Nederlands",
+                "dutchDescription": "CV in het Nederlands",
+                "englishTitle": "Engels",
+                "englishDescription": "CV in het Engels"
+            },
+            "resume": {
+                "title": "CV",
+                "name": "Timo Hermans",
+                "jobTitle": "Software Engineer",
+                "email": "tmhermans@gmail.com",
+                "phoneNumber": "+31611621075",
+                "location": "Sittard, Nederland",
+                "linkedin": "linkedin.com/in/timohermans",
+                "github": "github.com/timohermans",
+                "intro": "Ik ben een full stack software engineer met liefde voor frontend development. Men kent mij als iemand die zaken snel door heeft - dit kan een nieuwe stack of een nieuw domein zijn - en weet dit duidelijk en met plezier naar anderen over te brengen. Ik ben ervaren in alles web development en het begeleiden van mensen. Ik ben altijd op zoek naar nieuwe uitdagingen om mijn skills naar een hoger niveau te tillen.",
+                "skills": {
+                    "header": "Skills"
+                },
+                "jobsSection": {
+                    "header": "Werkervaring"
+                },
+                "jobs": {
+                    "fontys": {
+                        "title": "Docent ICT",
+                        "company": "Fontys",
+                        "date": "11/2020 - heden",
+                        "location": "Eindhoven",
+                        "companyDescription": "Fontys Hogeschool ICT leidt studenten op tot professionals in verschillende expertises",
+                        "tasks": {}
+                    },
+                    "kabisa": {
+                        "title": "Developer / Consultant",
+                        "company": "Kabisa",
+                        "date": "04/2020 - 11/2020",
+                        "location": "Weert",
+                        "companyDescription": "Kabisa is specialist in softwareoplossingen voor Hightech, Logistics & (Complex) E-Commerce bedrijven.",
+                        "tasks": {
+                            "task1": {
+                                "title": "Full stack web development voor Vacansoleil",
+                                "descriptions": [
+                                    "Frontend ontwikkeling met SSR Next.js",
+                                    "Backend ontwikkeling met Apollo server (GraphQL)",
+                                    "Agile werken in een scrum team"
+                                ]
+                            }
+                        }
+                    },
+                    "netpresenter": {
+                        "title": "Frontend developer / Scrum master",
+                        "company": "Netpresenter",
+                        "date": "08/2019 - 04/2020",
+                        "location": "Beek",
+                        "companyDescription": "Netpresenter houdt zich bezig met het doorontwikkelen en verkopen van communicatie software. Zij zijn ook verantwoordelijk voor Amber Alert software.",
+                        "tasks": {
+                            "task1": {
+                                "title": "Angular en Electron web development",
+                                "descriptions": [
+                                    "Verbeteren van de web applicatie op verschillende gebieden - Angular / Unit testing / Cypress / CI / Docker / Sass / HTML",
+                                    "Promoten en mede opzetten agile ontwikkel proces - Scrum / Scrum master"
+                                ]
+                            }
+                        }
+                    },
+                    "Mediaan": {
+                        "title": "Software engineer / Team lead",
+                        "company": "Mediaan",
+                        "date": "12/2016 - 08/2019",
+                        "location": "Heerlen",
+                        "companyDescription": "Mediaan maakt op maat gemaakt software op projectbasis en verleent AI services",
+                        "tasks": {
+                            "task1": {
+                                "title": "Full stack web development",
+                                "descriptions": [
+                                    "Ontwerpen en implementeren van een inspectie tool voor het industriele begrijf PDM Group - Angular / .NET Core / Azure DevOps / Azure",
+                                    "Ontwikkelen en onderhouden van een transactie marktplaats voor de bank HSBC Duitsland - Angular / .NET Core / Azure DevOps / Azure / Scrum",
+                                    "Uitbreiden en onderhouden van een ERP systeem voor Aevitae - Angular JS / .NET Web API / Oracle / Scrum",
+                                    "Uitbreiden van een mobiele app voor het laden van elektrische auto's voor het bedrijf Innogy - Angular / Cordova / GraphQL / Jira / Scrum",
+                                    "Ontwerpen en ontwikkelen van een tool die chat bots genereerd op basis van beslissingsdata voor het bedrijf PNA - .NET Chat Bot Framework / LUIS / SQL Server"
+                                ]
+                            },
+                            "task2": {
+                                "title": "Team lead verantwoordelijkheden",
+                                "descriptions": [
+                                    "Het lesgeven en begeleiden van een web development curriculum op Hogeschool Zuyd Heerlen",
+                                    "Het lesgeven en begeleiden van een cross platform mobile development minor Hogeschool Zuyd Heerlen",
+                                    "Begeleiden en trainen van verschillende stagiaires, verschillend van web tot VR development. Hogeschool Zuyd, Fontys, PXL, Hogeschool Groningen",
+                                    "Een plan ontworpen om senioren binnen Mediaan om een moderne web development stack eigen te maken",
+                                    "Naar verschillende locaties gegaan om Mediaan te promoten"
+                                ]
+                            }
+                        }
+                    },
+                    "bannerconnect": {
+                        "title": "Software engineer",
+                        "company": "Bannerconnect",
+                        "date": "01/2013 - 12/2016",
+                        "location": "Sittard",
+                        "companyDescription": "Bannerconnect verleende diensten op het gebied van online advertising. Software dat geschreven werd, werd voornamelijk intern gebruikt",
+                        "tasks": {
+                            "task1": {
+                                "title": "Full stack big data web development and R&D",
+                                "descriptions": [
+                                    "Ontwerpen en ontwikkelen van een brug tussen online en offline advertising door middel van wifi tracking - VueJS / .NET Core / MySQL / Python",
+                                    "Ontwikkelen van een ecommerce dashboard met ETL processen voor Xaxis in samenwerking met een team uit New York - React / NodeJS (Sails JS) / Python / AWS S3 + Redshift",
+                                    "Ontwerpen en ontwikkelen van een nieuwe versie van het interne dashboard - EmberJS / .NET Web API / MySQL",
+                                    "Onderhouden van het oude interne dashboard - .NET Web Forms / MySQL / Netezza data warehouse"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "hobbyProjects": {
+                    "title": "Persoonlijke projecten"
+                },
+                "languages": {
+                    "title": "Talen"
+                },
+                "education": {
+                    "title": "Opleiding"
+                },
+                "interests": {
+                    "title": "Interesses"
+                }
+            },
+            "education": {
+                "microsoft": {
+                    "title": "Microsoft MCSD: App Builder",
+                    "company": "Microsoft Exams",
+                    "location": "Online",
+                    "date": "07/2017"
+                },
+                "zuyd": {
+                    "title": "Informatica",
+                    "company": "Zuyd Hogeschool",
+                    "location": "Heerlen",
+                    "date": "02/2010 - 02/2014"
+                },
+                "vwo": {
+                    "title": "VWO",
+                    "company": "Graaf Huyn College",
+                    "location": "Geleen",
+                    "date": "2003 - 2009"
+                }
+            },
+            "hobbyProjects": {
+                "studentprogress": {
+                    "title": "StudentProgress",
+                    "date": "11/2020 - heden",
+                    "descriptions": [
+                        "Om de verschillende studenten bij te houden op verschillende leeruitkomsten heb ik deze applicatie ontwikkeld",
+                        "Dit project maakt gebruikt van .NET 5 Razor Pages, AlpineJS, Entity Framework en Vertical Slice Architecture",
+                        "De business logica is volledig getest met integratie testen, geinspireerd door Vladimir Khorikov",
+                        "CI/CD is opgezet met Drone.io",
+                        "Zie Github voor meer info"
+                    ]
+                },
+                "resume": {
+                    "title": "Resume",
+                    "date": "08/2020",
+                    "descriptions": [
+                        "Ik heb in het verleden een CV service gebruikt om mijn CV te verbeteren. Deze heb ik qua UI nagebouwd",
+                        "Dit project maakt gebruikt van Next.js (SSR met React)",
+                        "Voor de vertalingen is gebruikt gemaakt van i18next",
+                        "Zie Github voor meer info"
+                    ]
+                },
+                "monthburdens": {
+                    "title": "Homebank",
+                    "date": "2019",
+                    "descriptions": [
+                        "De app You Need A Budget vind ik persoonlijk geweldig om je uitgaven mee te tracken. Echter, het feit dat ik geen Rabobank transacties kan uploaden en dat ik er geld voor moet betalen vind ik jammer. Daarom heb ik besloten om hem opnieuw te bouwen en hier nieuwe skills mee op te doen. Aangezien ik mij vaak nieuwe frameworks en technieken wil eigen maken bestaat dit project uit meerdere projecten:",
+                        "Django",
+                        "Angular / PHP Laravel",
+                        "React / .NET Core / Vertical slice architecture (Jimmy Bogard)",
+                        "Zie Github voor meer info"
+                    ]
+                },
+                "gloomhaven": {
+                    "title": "Gloomhaven Charactersheet",
+                    "date": "12/2017 – 10/2018",
+                    "descriptions": [
+                        "Een aantal vrienden en ik spelen regelmatig een bordspel genaamd Gloomhaven. Dit spel heeft een papieren charactersheet. Dit heb ik gedigitaliseerd en wat utilities aan toegevoegd.",
+                        "Angular / Firebase / Firebase login / Firebase hosting",
+                        "Zie Github voor meer info."
+                    ]
+                }
+            },
+            "interests": [
+                "Programmeren",
+                "Voeding en gezondheid",
+                "Fantasy boeken",
+                "Party games",
+                "Bordspellen"
+            ],
+            "languages": [
+                {
+                    "language": "Nederlands",
+                    "proficiency": "Vloeiend"
+                },
+                {
+                    "language": "Engels",
+                    "proficiency": "Volledig professioneel bekwaam"
+                }
+            ],
+            "skills": [
+                ".NET Core",
+                "Htmx",
+                "Svelte(Kit)",
+                "React",
+                "CI/CD",
+                "Unit/Integration testing",
+                "Docker",
+                "Git",
+                "TypeScript",
+                "Spring Boot",
+                "PostgreSQL",
+                "MSSQL",
+                "Azure",
+                "Django",
+                "En meer..."
+            ]
+        }
+    }
+}
