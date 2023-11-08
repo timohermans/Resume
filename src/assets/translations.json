@@ -2,8 +2,8 @@
     "en": {
         "translation": {
             "home": {
-                "welcome": "Welcome to my resume!",
-                "explanation": "Select a language to view a resume. They are printer friendly.",
+                "welcome": "Timo's resume",
+                "explanation": "Choose a language:",
                 "dutchTitle": "Dutch",
                 "dutchDescription": "Resume in Dutch",
                 "englishTitle": "English",
@@ -232,8 +232,8 @@
     "nl": {
         "translation": {
             "home": {
-                "welcome": "Welkom bij mijn CV!",
-                "explanation": "Kies een taal om mijn CV te bekijken. Deze CV's zijn printer vriendelijk!",
+                "welcome": "Timo's CV",
+                "explanation": "Kies een taal:",
                 "dutchTitle": "Nederlands",
                 "dutchDescription": "CV in het Nederlands",
                 "englishTitle": "Engels",
