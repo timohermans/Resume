@@ -277,7 +277,7 @@
                 "github": "github.com/timohermans",
                 "intro": "Ik ben een full stack software engineer. Men kent mij als iemand die een technologie of domein snel door heeft en dit altijd met enthousiasme deelt met anderen. Ik ben bedreven in alles wat met web development te maken heeft en ben altijd op zoek naar nieuwe uitdagingen om mijn vaardigheden te verbeteren.",
                 "skills": {
-                    "header": "Skills"
+                    "header": "Vaardigheden"
                 },
                 "jobsSection": {
                     "header": "Werkervaring"
@@ -316,17 +316,17 @@
                             "task1": {
                                 "title": "Web and bridge development voor Signify, maker van Philips Hue",
                                 "descriptions": [
-                                    "Frontend development met Preact",
-                                    "Backend development met Elixir Phoenix (functional programming)",
-                                    "Bridge development met TypeScript and Docker"
+                                    "Frontend development met Preact.",
+                                    "Backend development met Elixir Phoenix (functional programming).",
+                                    "Bridge development met TypeScript and Docker."
                                 ]
                             },
                             "task2": {
                                 "title": "Full stack web development voor Vacansoleil",
                                 "descriptions": [
-                                    "Frontend ontwikkeling met SSR Next.js",
-                                    "Backend ontwikkeling met Apollo server (GraphQL)",
-                                    "Agile werken in een scrum team"
+                                    "Frontend ontwikkeling met SSR Next.js.",
+                                    "Backend ontwikkeling met Apollo server (GraphQL).",
+                                    "Agile werken in een scrum team."
                                 ]
                             }
                         }
@@ -341,8 +341,8 @@
                             "task1": {
                                 "title": "Angular en Electron web development",
                                 "descriptions": [
-                                    "Verbeteren van de web applicatie op verschillende gebieden - Angular / Unit testing / Cypress / CI / Docker / Sass / HTML",
-                                    "Promoten en mede opzetten agile ontwikkel proces - Scrum / Scrum master"
+                                    "Verbeteren van de web applicatie op verschillende gebieden - Angular / Unit testing / Cypress / CI / Docker / Sass / HTML.",
+                                    "Promoten en mede opzetten agile ontwikkel proces - Scrum / Scrum master."
                                 ]
                             }
                         }
@@ -357,21 +357,21 @@
                             "task1": {
                                 "title": "Full stack web development",
                                 "descriptions": [
-                                    "Ontwerpen en implementeren van een inspectie tool voor het industriele begrijf PDM Group - Angular / .NET Core / Azure DevOps / Azure",
-                                    "Ontwikkelen en onderhouden van een transactie marktplaats voor de bank HSBC Duitsland - Angular / .NET Core / Azure DevOps / Azure / Scrum",
-                                    "Uitbreiden en onderhouden van een ERP systeem voor Aevitae - Angular JS / .NET Web API / Oracle / Scrum",
-                                    "Uitbreiden van een mobiele app voor het laden van elektrische auto's voor het bedrijf Innogy - Angular / Cordova / GraphQL / Jira / Scrum",
-                                    "Ontwerpen en ontwikkelen van een tool die chat bots genereerd op basis van beslissingsdata voor het bedrijf PNA - .NET Chat Bot Framework / LUIS / SQL Server"
+                                    "Ontwerpen en implementeren van een inspectie tool voor het industriele begrijf PDM Group - Angular / .NET Core / Azure DevOps / Azure.",
+                                    "Ontwikkelen en onderhouden van een transactie marktplaats voor de bank HSBC Duitsland - Angular / .NET Core / Azure DevOps / Azure / Scrum.",
+                                    "Uitbreiden en onderhouden van een ERP systeem voor Aevitae - Angular JS / .NET Web API / Oracle / Scrum.",
+                                    "Uitbreiden van een mobiele app voor het laden van elektrische auto's voor het bedrijf Innogy - Angular / Cordova / GraphQL / Jira / Scrum.",
+                                    "Ontwerpen en ontwikkelen van een tool die chat bots genereerd op basis van beslissingsdata voor het bedrijf PNA - .NET Chat Bot Framework / LUIS / SQL Server."
                                 ]
                             },
                             "task2": {
                                 "title": "Team lead verantwoordelijkheden",
                                 "descriptions": [
-                                    "Het lesgeven en begeleiden van een web development curriculum op Hogeschool Zuyd Heerlen",
-                                    "Het lesgeven en begeleiden van een cross platform mobile development minor Hogeschool Zuyd Heerlen",
-                                    "Begeleiden en trainen van verschillende stagiaires, verschillend van web tot VR development. Hogeschool Zuyd, Fontys, PXL, Hogeschool Groningen",
-                                    "Een plan ontworpen om senioren binnen Mediaan om een moderne web development stack eigen te maken",
-                                    "Naar verschillende locaties gegaan om Mediaan te promoten"
+                                    "Het lesgeven en begeleiden van een web development curriculum op Hogeschool Zuyd Heerlen.",
+                                    "Het lesgeven en begeleiden van een cross platform mobile development minor Hogeschool Zuyd Heerlen.",
+                                    "Begeleiden en trainen van verschillende stagiaires, verschillend van web tot VR development. Hogeschool Zuyd, Fontys, PXL, Hogeschool Groningen.",
+                                    "Een plan ontworpen om senioren binnen Mediaan om een moderne web development stack eigen te maken.",
+                                    "Naar verschillende locaties gegaan om Mediaan te promoten."
                                 ]
                             }
                         }
@@ -386,10 +386,10 @@
                             "task1": {
                                 "title": "Full stack big data web development and R&D",
                                 "descriptions": [
-                                    "Ontwerpen en ontwikkelen van een brug tussen online en offline advertising door middel van wifi tracking - VueJS / .NET Core / MySQL / Python",
-                                    "Ontwikkelen van een ecommerce dashboard met ETL processen voor Xaxis in samenwerking met een team uit New York - React / NodeJS (Sails JS) / Python / AWS S3 + Redshift",
-                                    "Ontwerpen en ontwikkelen van een nieuwe versie van het interne dashboard - EmberJS / .NET Web API / MySQL",
-                                    "Onderhouden van het oude interne dashboard - .NET Web Forms / MySQL / Netezza data warehouse"
+                                    "Ontwerpen en ontwikkelen van een brug tussen online en offline advertising door middel van wifi tracking - VueJS / .NET Core / MySQL / Python.",
+                                    "Ontwikkelen van een ecommerce dashboard met ETL processen voor Xaxis in samenwerking met een team uit New York - React / NodeJS (Sails JS) / Python / AWS S3 + Redshift.",
+                                    "Ontwerpen en ontwikkelen van een nieuwe versie van het interne dashboard - EmberJS / .NET Web API / MySQL.",
+                                    "Onderhouden van het oude interne dashboard - .NET Web Forms / MySQL / Netezza data warehouse."
                                 ]
                             }
                         }
@@ -439,11 +439,11 @@
                     "title": "StudentProgress",
                     "date": "11/2020 - heden",
                     "descriptions": [
-                        "Om de verschillende studenten bij te houden op verschillende leeruitkomsten heb ik deze applicatie ontwikkeld",
-                        "Dit project maakt gebruikt van .NET 5 Razor Pages, AlpineJS, Entity Framework en Vertical Slice Architecture",
-                        "De business logica is volledig getest met integratie testen, geinspireerd door Vladimir Khorikov",
-                        "CI/CD is opgezet met Drone.io",
-                        "Zie Github voor meer info"
+                        "Om de verschillende studenten bij te houden op verschillende leeruitkomsten heb ik deze applicatie ontwikkeld.",
+                        "Dit project maakt gebruikt van .NET 5 Razor Pages, AlpineJS, Entity Framework en Vertical Slice Architecture.",
+                        "De business logica is volledig getest met integratie testen, geinspireerd door Vladimir Khorikov.",
+                        "CI/CD is opgezet met Drone.io.",
+                        "Zie Github voor meer info."
                     ]
                 },
                 "resume": {
@@ -472,7 +472,7 @@
                     "date": "12/2017 – 10/2018",
                     "descriptions": [
                         "Een aantal vrienden en ik spelen regelmatig een bordspel genaamd Gloomhaven. Dit spel heeft een papieren charactersheet. Dit heb ik gedigitaliseerd en wat utilities aan toegevoegd.",
-                        "Angular / Firebase / Firebase login / Firebase hosting",
+                        "Angular / Firebase / Firebase login / Firebase hosting.",
                         "Zie Github voor meer info."
                     ]
                 }
