@@ -2,7 +2,7 @@
     "en": {
         "translation": {
             "home": {
-                "welcome": "Timo's resume",
+                "welcome": "👋 Welcome",
                 "explanation": "Choose a language:",
                 "dutchTitle": "Dutch",
                 "dutchDescription": "Resume in Dutch",
@@ -259,7 +259,7 @@
     "nl": {
         "translation": {
             "home": {
-                "welcome": "Timo's CV",
+                "welcome": "👋 Hoi!",
                 "explanation": "Kies een taal:",
                 "dutchTitle": "Nederlands",
                 "dutchDescription": "CV in het Nederlands",
