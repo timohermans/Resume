@@ -158,6 +158,12 @@
                     "location": "Eindhoven",
                     "date": "12/2022"
                 },
+                "scrum.org": {
+                    "title": "Professional Scrum Master I (PSM I)",
+                    "company": "scrum.org",
+                    "location": "Online",
+                    "date": "07/2021"                   
+                },
                 "microsoft": {
                     "title": "Microsoft MCSD: App Builder",
                     "company": "Microsoft Exams",
@@ -414,6 +420,12 @@
                     "company": "Fontys Hogeschool Eindhoven",
                     "location": "Eindhoven",
                     "date": "12/2022"
+                },
+                "scrum.org": {
+                    "title": "Professional Scrum Master I (PSM I)",
+                    "company": "scrum.org",
+                    "location": "Online",
+                    "date": "07/2021"                   
                 },
                 "microsoft": {
                     "title": "Microsoft MCSD: App Builder",
