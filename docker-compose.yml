@@ -3,7 +3,6 @@ services:
   resume:
     build: .
     restart: unless-stopped
-    env_file: .env
     networks:
       - server
     labels:
