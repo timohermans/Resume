@@ -30,7 +30,7 @@ clone:
 steps:
   - name: move
     commands:
-      - cd /home/apper/projects/resume
+      - cd /home/apper/apps/resume
       - git checkout master
       - git pull
       - docker-compose up -d --build
