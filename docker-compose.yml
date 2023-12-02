@@ -7,7 +7,7 @@ services:
       - server
     labels:
       - 'traefik.enable=true'
-      - 'traefik.http.routers.resume.rule=HOST(`resume.timohermans.nl`)'
+      - 'traefik.http.routers.resume.rule=HOST(`i-am.timo-hermans.nl`)'
       - 'traefik.http.services.resume.loadbalancer.server.port=80'
 
 networks:
