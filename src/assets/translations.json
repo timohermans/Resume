@@ -34,17 +34,24 @@
                         "companyDescription": "FHICT educates student into professionals in many different areas",
                         "tasks": {
                             "task1": {
+                                "title": "Software engineer",
+                                "descriptions": [
+                                    "Developing innovative software solutions for the new developments in the educational landscape. Using C# ASP.NET Blazor, MVC, MSSQL, Azure DevOps, Git.",
+                                    "Collaborate with internal stakeholders to create solutions, engineer requirements, manage backlogs, monitor progress, and deliver iteratively"
+                                ]
+                            },
+                            "task2": {
                                 "title": "Lower-level teacher",
                                 "descriptions": [
                                     "Guiding and coaching first-year students in the software development process with .NET and ASP.NET",
                                     "Coaching second-year students in the full-stack web development process with front-end and back-end frameworks, CI, and Docker"
                                 ]
                             },
-                            "task2": {
+                            "task3": {
                                 "title": "Upper-level teacher",
                                 "descriptions": [
                                     "Coaching third-year students in making well-argued choices during the software development process",
-                                    "Coaching third-year students in converting the client's wishes and demands into quality software"
+                                    "Coaching third-year students in converting the client's wishes and demands into quality software with distributed software architectures"
                                 ]
                             }
                         }
@@ -67,7 +74,7 @@
                             "task2": {
                                 "title": "Full stack web development for camping booking company Vacansoleil",
                                 "descriptions": [
-                                    "Frontend development with SSR Next.js",
+                                    "Frontend development with Next.js",
                                     "Backend development with Apollo server (GraphQL)",
                                     "Working in an agile way in a dedicated Scrum team"
                                 ]
@@ -245,19 +252,19 @@
             ],
             "skills": [
                 "ASP.NET",
-                "Htmx",
-                "Svelte(Kit)",
+                "Next.js",
                 "React",
                 "CI/CD",
+                "Azure DevOps",
+                "Github Actions",
                 "Testing",
+                "Playwright",
                 "Docker",
                 "Git",
                 "TypeScript",
-                "Spring Boot",
                 "PostgreSQL",
                 "MSSQL",
                 "Azure",
-                "Django",
                 "And more..."
             ]
         }
@@ -290,24 +297,31 @@
                 },
                 "jobs": {
                     "fontys": {
-                        "title": "Docent ICT",
+                        "title": "Docent ICT / Software Engineer",
                         "company": "Fontys",
                         "date": "11/2020 - heden",
                         "location": "Eindhoven",
                         "companyDescription": "Fontys Hogeschool ICT leidt studenten op tot professionals in verschillende expertises",
                         "tasks": {
                             "task1": {
-                                "title": "Docent onderbouw",
+                                "title": "Software engineer",
                                 "descriptions": [
-                                    "Begeleiden en coachen van eerstejaars studenten in het software ontwikkelproces met .NET en ASP.NET",
-                                    "Coachen van tweedejaars studenten in het full stack web development proces met o.a. front- en backend frameworks, CI en Docker"
+                                    "Ontwikkelen van innovatieve software oplossingen voor de nieuwe ontwikkelingen in het onderwijs landschap. Met C# ASP.NET Blazor, MVC, MSSQL, Azure DevOps, Git.",
+                                    "Samen met interne stakeholders oplossingen bedenken, requirements engineeren, backlogs managen, voortgang bewaken en iteratief opleveren."
                                 ]
                             },
                             "task2": {
                                 "title": "Docent bovenbouw",
                                 "descriptions": [
                                     "Coachen van derdejaars studenten in het maken van goed geargumenteerde keuzes tijdens het software ontwikkelproces",
-                                    "Coachen van derdejaars studenten in het omzetten van de wensen en eisen van de klant in kwalitatieve software"
+                                    "Coachen van derdejaars studenten in het omzetten van de wensen en eisen van de klant in kwalitatieve software met behulp van distributed software"
+                                ]
+                            },
+                            "task3": {
+                                "title": "Docent onderbouw",
+                                "descriptions": [
+                                    "Begeleiden en coachen van eerstejaars studenten in het software ontwikkelproces met .NET en ASP.NET",
+                                    "Coachen van tweedejaars studenten in het full stack web development proces met o.a. front- en backend frameworks, CI en Docker"
                                 ]
                             }
                         }
@@ -330,7 +344,7 @@
                             "task2": {
                                 "title": "Full stack web development voor Vacansoleil",
                                 "descriptions": [
-                                    "Frontend ontwikkeling met SSR Next.js.",
+                                    "Frontend ontwikkeling met Next.js.",
                                     "Backend ontwikkeling met Apollo server (GraphQL).",
                                     "Agile werken in een scrum team."
                                 ]
@@ -508,19 +522,19 @@
             ],
             "skills": [
                 "ASP.NET",
-                "Htmx",
-                "Svelte(Kit)",
+                "Next.js",
                 "React",
                 "CI/CD",
+                "Azure DevOps",
+                "Github Actions",
                 "Testing",
+                "Playwright",
                 "Docker",
                 "Git",
                 "TypeScript",
-                "Spring Boot",
                 "PostgreSQL",
                 "MSSQL",
                 "Azure",
-                "Django",
                 "En meer..."
             ]
         }
