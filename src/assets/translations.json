@@ -51,7 +51,7 @@
                                 "title": "Upper-level teacher",
                                 "descriptions": [
                                     "Coaching third-year students in making well-argued choices during the software development process",
-                                    "Coaching third-year students in converting the client's wishes and demands into quality software with distributed software architectures"
+                                    "Coaching third-year students in converting the client's wishes and demands into quality software with distributed software architectures with technologies such as Java Spring boot, Gitlab CI, Docker and React"
                                 ]
                             }
                         }
@@ -253,6 +253,7 @@
             "skills": [
                 "ASP.NET",
                 "Next.js",
+                "Java Spring Boot",
                 "React",
                 "CI/CD",
                 "Azure DevOps",
@@ -314,7 +315,7 @@
                                 "title": "Docent bovenbouw",
                                 "descriptions": [
                                     "Coachen van derdejaars studenten in het maken van goed geargumenteerde keuzes tijdens het software ontwikkelproces",
-                                    "Coachen van derdejaars studenten in het omzetten van de wensen en eisen van de klant in kwalitatieve software met behulp van distributed software"
+                                    "Coachen van derdejaars studenten in het omzetten van de wensen en eisen van de klant in kwalitatieve software met behulp van distributed software met technologiën als Java Spring boot, Gitlab CI, Docker en React"
                                 ]
                             },
                             "task3": {
@@ -523,6 +524,7 @@
             "skills": [
                 "ASP.NET",
                 "Next.js",
+                "Java Spring Boot",
                 "React",
                 "CI/CD",
                 "Azure DevOps",
